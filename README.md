@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Heyutsav
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - ig - @utsav_arya_
+Web Developer | Aspiring MCA Student
 
-<!---
-Heyutsav/Heyutsav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Utsav Arya , a passionate web developer with a background in business administration and a keen interest in technology and digital marketing.
+
+🔧 Skills:
+
+Web Development: HTML, CSS, JavaScript
+Digital Marketing: Content Marketing, SEO, Email Marketing, Google Ads, Meta Ads
+Analytics: Google Analytics
+Database Management: Basic MySQL
+
+🎓 Education:
+
+Bachelor of Computer Application | BIT Meerut
+Pursuing Master of Computer Applications | SRM University Delhi NCR
+
+🌟 Interests:
+
+Learning new technologies
+Developing innovative business ideas
+contact - utsav@trustyescrow.com
